@@ -6,7 +6,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 
-public class WelcomeScreen extends ActionBarActivity {
+public class WelcomeScreenView extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
