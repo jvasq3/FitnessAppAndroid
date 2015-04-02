@@ -6,4 +6,9 @@ package jvasquez.fitnesscoach;
 public class BodyPartWorkout {
 
     private Workout wrkout;
+
+    public BodyPartWorkout()
+    {
+        
+    }
 }

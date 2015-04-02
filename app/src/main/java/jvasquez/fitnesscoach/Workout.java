@@ -8,4 +8,9 @@ import java.util.List;
 public class Workout {
 
     private List<Exercise> exercises;
+
+    public Workout()
+    {
+
+    }
 }
